@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Login API Rest</string>
+    <string name="main_login">Login</string>
+    <string name="hint_email">email</string>
+    <string name="hint_password">password</string>
+    <string name="main_type_login">Login</string>
+    <string name="main_type_register">Register</string>
+    <string name="main_error_server">Error en la petición</string>
+</resources>
